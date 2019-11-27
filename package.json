@@ -1,0 +1,17 @@
+{
+  "name": "com.unity.mobile.buildreport",
+  "displayName": "Mobile BuildReport",
+  "version": "0.1.1-preview",
+  "unity": "2019.3",
+  "description": "Build Report tool for Mobile platforms.\n\nUse this tool to see the contents of mobile application bundles and other useful information.",
+  "keywords": [
+    "mobile",
+    "build",
+    "report"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Unity-Technologies/com.unity.mobile.buildreport.git",
+    "revision": "ede9cc69b8584fd015198ba63e9b5dacc1925042"
+  }
+}
